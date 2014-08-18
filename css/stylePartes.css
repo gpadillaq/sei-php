@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+body{padding: 0px; margin:0px;}
+#cabecera,footer{height: 50px; background-color:#3A3A3A;}
+header{ height: 120px; background: #D4CFCC url("../image/Encabezado-SEI-2.jpg") no-repeat;}
+.contenido{padding-right: 25px; padding-left: 25px; min-height: 450px;}
+.container{ border-left: 1px solid #959595;border-right: 1px solid #959595; border-bottom: 1px solid #959595;}
+
+/*forma en la que se visualizan los elementos de los formularios */
+textarea{ width: 80%;}
+.input-corto {width: 35px; }

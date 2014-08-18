@@ -1,0 +1,1122 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"bor	CSS - border-radius: ;"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"wd",
+				"outline-width"
+			],
+			[
+				"in",
+				"in	inherit"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"main",
+				"main-article"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"out",
+				"out	outline"
+			],
+			[
+				"fi",
+				"fli	:first-line"
+			],
+			[
+				"up",
+				"up-main-nav"
+			],
+			[
+				"padi",
+				"padding"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"po",
+				"pos:a	position:absolute"
+			],
+			[
+				"lef",
+				"lef	CSS - left: 0;"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"sha",
+				"sha	CSS - box-shadow: ;"
+			],
+			[
+				"fon",
+				"fon	CSS - font: 1em/1.5 sans-serif;"
+			],
+			[
+				"fo",
+				"fon+	font: 1em Arial"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bl",
+				"blo	CSS - display: block;"
+			],
+			[
+				"pun",
+				"pundoy"
+			],
+			[
+				"b",
+				"bg	background"
+			],
+			[
+				"con",
+				"console.	console.warn()"
+			],
+			[
+				"sli",
+				"slideUp	.slideUp()"
+			],
+			[
+				"focu",
+				"focusin	.focusin()"
+			],
+			[
+				"fa",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"ho",
+				"hover( fnOver, fnOut )	jquery-1.9.1.js"
+			],
+			[
+				"cs",
+				"css	.css() - single"
+			],
+			[
+				"m",
+				"ms	@media screen"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"f",
+				"fadeToggle	.fadeToggle()"
+			],
+			[
+				"s",
+				"static"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"pos",
+				"pos:a	position:absolute"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"cli",
+				"clip( o, done )	jquery-ui.js"
+			],
+			[
+				"c",
+				"css	.css() - single"
+			],
+			[
+				"d",
+				"d:n	display:none"
+			],
+			[
+				"me",
+				"media"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"tra",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"w",
+				"wfs	-webkit-font-smoothing"
+			],
+			[
+				"Modi",
+				"ModificarRotros"
+			],
+			[
+				"ACtul",
+				"Actualizar"
+			],
+			[
+				"dato",
+				"DatosOrigen"
+			],
+			[
+				"Tabl",
+				"tablaDestino"
+			],
+			[
+				"Ta",
+				"tablaDestino"
+			],
+			[
+				"datos",
+				"DatosDestino"
+			],
+			[
+				"My",
+				"MyconsultaDestino"
+			],
+			[
+				"camposAa",
+				"camposAmodificar"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows"
+			],
+			[
+				"de",
+				"delay	.delay()"
+			],
+			[
+				"time",
+				"setTimeout"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"res",
+				"resolve	resolve"
+			],
+			[
+				"l",
+				"load	.load"
+			],
+			[
+				"th",
+				"this	$(this)"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"lists",
+				"list-style"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ile",
+				"inline-block"
+			],
+			[
+				"top",
+				"top_nav"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			],
+			[
+				"rb",
+				"rgba	rgba()"
+			],
+			[
+				"tab",
+				"table-column"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"co",
+				"col	color"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"p",
+				"pre	Tag"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"TAB",
+				"table-cell"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"htm",
+				"htmlentities"
+			],
+			[
+				"va",
+				"value2"
+			],
+			[
+				"cod",
+				"codigo"
+			],
+			[
+				"er",
+				"ereg_replace"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"str",
+				"str_replace"
+			],
+			[
+				"tabC",
+				"tabContentHtml"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"ht",
+				"html	.html"
+			],
+			[
+				"edi",
+				"editor"
+			],
+			[
+				"hi",
+				"hide	hide"
+			],
+			[
+				"resul",
+				"resultadosOtros"
+			],
+			[
+				"Admi",
+				"administrador"
+			],
+			[
+				"cla",
+				"clase"
+			],
+			[
+				"asig",
+				"asignatura"
+			],
+			[
+				"dat",
+				"datosDocenteClase"
+			],
+			[
+				"estr",
+				"estructuras"
+			],
+			[
+				"codi",
+				"codigoEstructura"
+			],
+			[
+				"Co",
+				"CodigoHTML"
+			],
+			[
+				"campo",
+				"camposAselect"
+			],
+			[
+				"Cam",
+				"camposAselect"
+			],
+			[
+				"sub",
+				"submit	submit"
+			],
+			[
+				"editor",
+				"editor1"
+			],
+			[
+				"cook",
+				"cookis"
+			],
+			[
+				"inne",
+				"innerHTML"
+			],
+			[
+				"value",
+				"value2"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"estruc",
+				"estruccturas"
+			],
+			[
+				"_",
+				"_COOKIE"
+			],
+			[
+				"dialog-form",
+				"dialog-form-estructura"
+			],
+			[
+				"dia",
+				"dialogoEditor"
+			],
+			[
+				"div",
+				"divi"
+			],
+			[
+				"hide",
+				"hidden"
+			],
+			[
+				"eval",
+				"evaluador"
+			],
+			[
+				"Pr",
+				"Preguntas"
+			],
+			[
+				"pregun",
+				"preguntaI"
+			],
+			[
+				"P",
+				"Pregunta"
+			],
+			[
+				"Do",
+				"Docentes"
+			],
+			[
+				"codigo",
+				"codigo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/haykerhs/Desktop/HTML5 prueba/stylus.styl",
+			"settings":
+			{
+				"buffer_size": 1808,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Base de Datos MySQL		Usuario MySQL	Host MySQL	\nu364262183_fbdd		u364262183_fbdd		mysql.hostinger.es\n\n\nFUNDACION",
+			"settings":
+			{
+				"buffer_size": 111,
+				"line_ending": "Unix",
+				"name": "Base de Datos MySQL		Usuario MySQL	Host MySQL"
+			}
+		},
+		{
+			"file": "/home/haykerhs/Desktop/HTML5 prueba/stylus.css",
+			"settings":
+			{
+				"buffer_size": 1569,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 360.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"stylus",
+				"Snippet: border-style:outset"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"css an	",
+				"Snippet: CSS - animation: ;"
+			],
+			[
+				"sublim",
+				"Can I Switch To Sublime Text 3?"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"c",
+				"Clipboard History"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ali",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"boo",
+				"Bookmarks: Toggle"
+			],
+			[
+				"jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"bos",
+				"Snippet: Bootstrap success button"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 383.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/haykerhs/Desktop/HTML5 prueba/stylus.css",
+		"/home/haykerhs/Desktop/HTML5 prueba/prueba.htm",
+		"/home/haykerhs/Desktop/HTML5 prueba/stylo.css",
+		"/home/haykerhs/Desktop/HTML5 prueba/stylus.styl",
+		"/media/NELSON/WAILEDO/WAILEDO/MainModule.mod",
+		"/home/haykerhs/node_modules/stylus/bin/stylus",
+		"/media/NELSON/WAILEDO/WAILEDO/wiledo.styl",
+		"/media/NELSON/WAILEDO/WAILEDO/wiledo.sty",
+		"/home/haykerhs/Desktop/HTML5 prueba/script.js",
+		"/home/haykerhs/Desktop/HTML5 prueba/index.html",
+		"/media/NELSON/WAILEDO/MainModule.mod",
+		"/var/www/SEI/admin/clases/conexion.clase.php",
+		"/var/www/SEI/validar.php",
+		"/var/www/SEI/evaluacion.php",
+		"/tmp/fz3temp-1/admin.php",
+		"/var/www/SEI/admin/admin.php",
+		"/var/www/SEI/admin/clases/scripts.php",
+		"/var/www/SEI2/admin/clases/scripts.php",
+		"/var/www/SEI2/admin/admin.php",
+		"/home/haykerhs/Desktop/stylo.css",
+		"/home/haykerhs/Desktop/index.html",
+		"/home/haykerhs/Desktop/script.js",
+		"/media/Respaldo/respaldo/UlsALabs-2013-WiFi.txt",
+		"/var/www/SEI/css/jquery-ui.min.css",
+		"/tmp/fz3temp-1/scripts.php",
+		"/home/haykerhs/Music/ficheroExcel.php",
+		"/home/haykerhs/Software/GNS3/qemu/qemu-0.11.0/readline.d",
+		"/var/www/SEI/clases/conexion.clase.php",
+		"/tmp/fz3temp-1/conexion.clase.php",
+		"/var/www/SEI/plantillas/Padministrador.php",
+		"/var/www/SEI/admin/SEI.php",
+		"/var/www/SEI/admin/editor.php",
+		"/home/haykerhs/Downloads/sample_posteddata (3).php",
+		"/var/www/SEI/admin/ckeditor/index.htm",
+		"/var/www/SEI/plantillas/Pindex.php",
+		"/var/www/SEI/plantillas/Pevaluacion.php",
+		"/var/www/SEI/index.php",
+		"/var/www/SEI/admin/clases/fungeneral.fn.php",
+		"/home/haykerhs/Downloads/ckeditor/ckeditor/editor.htm",
+		"/var/www/SEI2/SEI_OLD/index.php",
+		"/var/www/SEI/admin/ckeditor/editor.htm",
+		"/var/www/SEI/clases/scripts.php",
+		"/var/www/SEI/admin/clases/tools.php",
+		"/var/www/SEI2/validar.php",
+		"/var/www/SEI2/evaluacion.php",
+		"/var/www/SEI/clases/usuarios.clase.php",
+		"/home/haykerhs/Desktop/ckeditor/samples/tabindex.html",
+		"/var/www/SEI/admin/ckeditor/ckeditor/ckeditor.js",
+		"/var/www/SEI/admin/ckeditor/samples/uicolor.html",
+		"/var/www/SEI/admin/ckeditor/ckeditor/samples/uicolor.html",
+		"/var/www/SEI/admin/ckeditor/ckeditor/samples/plugins/toolbar/toolbar.html",
+		"/var/www/SEI/admin/ckeditor/ckeditor/samples/tabindex.html",
+		"/var/www/SEI/admin/ckeditor/samples/replacebyclass.html",
+		"/var/www/SEI/admin/ckeditor/ckeditor.js",
+		"/var/www/SEI/admin/ckeditor/ckeditor/samples/sample_posteddata.php",
+		"/home/haykerhs/Downloads/sample_posteddata.php",
+		"/var/www/SEI/admin/ckeditor/samples/appendto.html",
+		"/home/haykerhs/Desktop/ckeditor/editor.htm",
+		"/tmp/fz3temp-1/tools.php",
+		"/home/haykerhs/Desktop/editor.htm",
+		"/media/ROBELO/Gerald Entrega todo/Productos txt modificados/6CP215.txt",
+		"/home/haykerhs/Desktop/prueba/004SS-6.txt",
+		"/var/www/SEI/admin/clases/cabecera.php",
+		"/var/www/SEI/admin/css/stylePartes.css",
+		"/home/haykerhs/Desktop/prueba/Untitled1.cpp",
+		"/home/haykerhs/Desktop/prueba/adf.txt",
+		"/home/haykerhs/Desktop/prueba/268.txt",
+		"/var/www/SEI/manager/partes/alumnos.php",
+		"/var/www/SEI/admin/css/jquery-ui.min.css",
+		"/var/www/SEI/admin/bootstrap/css/bootstrap.css",
+		"/var/www/SEI/admin/css/jquery-ui.css",
+		"/var/www/SEI/admin/css/jquery.ui.theme.css",
+		"/media/NELSON/SEI/_mmServerScripts/MMHTTPDB.php",
+		"/var/www/SEI/manager/index.php",
+		"/var/www/SEI/manager/partes/header.php",
+		"/var/www/SEI/clases/fungeneral.fn.php",
+		"/var/www/SEI/css/stylePartes.css",
+		"/var/www/SEI/evaluacion.sublime-project",
+		"/var/www/SEI/evaluacion.sublime-workspace",
+		"/var/www/SEI/css/jquery.ui.theme.css",
+		"/var/www/SEI/css/jquery.ui.accordion.css",
+		"/var/www/SEI/clases/cabecera.php",
+		"/var/www/SEI/admin/index.php",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/dialog/modal-form.html",
+		"/var/www/SEI/css/jquery-ui.css",
+		"/var/www/SEI/admin/ficheroExcel.php",
+		"/var/www/SEI/prueba/index.html",
+		"/home/haykerhs/Music/Ejemplo1.html",
+		"/var/www/SEI/bootstrap/css/bootstrap.css",
+		"/home/haykerhs/Downloads/ficheroExcel.php",
+		"/var/www/SEI/admin/prueba.php",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/dialog/default.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/dialog/modal-confirmation.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/dialog/modal-message.html",
+		"/var/www/SEI/manager/partes/manage_form.php",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/tooltip/custom-animation.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/dialog/animated.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/dialog/modal.html",
+		"/var/www/SEI/manager/estilos/stylePartes.css",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/accordion/fillspace.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/tabs/manipulation.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/tabs/mouseover.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/tabs/default.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/tabs/collapsible.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/tabs/bottom.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/tabs/ajax.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/tabs/sortable.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/tabs/vertical.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/slider/side-scroll.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/draggable/scroll.html",
+		"/var/www/SEI/bootstrap/css/bootstrap.min.css",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/tooltip/video-player.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/selectable/serialize.html",
+		"/var/www/SEI/SEI_OLD/manager/partes/manage_form.php",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/autocomplete/default.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/selectable/display-grid.html",
+		"/home/haykerhs/Documents/jquery-ui-1.10.3/demos/selectable/default.html",
+		"/var/www/SEI/admin/js/barraheramientas.js",
+		"/var/www/SEI/admin/js/jquery-ui.js",
+		"/var/www/SEI/admin/tinymce/langs/readme.md",
+		"/var/www/SEI/admin/tinymce/license.txt",
+		"/var/www/SEI/admin/tinymce/jquery.tinymce.min.js",
+		"/home/haykerhs/Desktop/tinymce/tests/index.html",
+		"/var/www/SEI/admin/tinymce/tinymce.min.js",
+		"/var/www/SEI/tinymce/tinymce.min.js",
+		"/var/www/SEI/js/ui/jquery.ui.dialog.js",
+		"/var/www/SEI/js/ui/jquery.ui.button.js",
+		"/var/www/SEI/validad.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"write",
+			"img",
+			"figure",
+			"</header>",
+			"<footer",
+			"<p>",
+			"p",
+			"\"></",
+			"pundoy",
+			"theta",
+			"VAR",
+			"10px",
+			"Nelementos",
+			"DatosOrigen",
+			"MyconsultaOrigen",
+			"31",
+			"pre",
+			"margin:0 auto",
+			"margin:0",
+			"margin",
+			"}",
+			"type",
+			"a",
+			"getUpdate",
+			"is_",
+			"is",
+			"codigo",
+			"e,f){a.addCommand(d,new CKEDITOR.command(a,e));a.ui.addButton&&a.ui.addButton(b,{label:c,command:d,toolbar:\"bidi,\"+f})}if(!a.blockless){var d=a.lang.bidi;f(\"BidiLtr\",d.ltr,\"bidiltr\",m(\"ltr\"),10);f(\"BidiRtl\",d.rtl,\"bidirtl\",m(\"rtl\"),20);a.on(\"contentDom\",function(){a.document.on(\"dirChanged\",function(b){a.fire(\"dirChanged\",{node:b.data,dir:b.data.getDirection(1)})})});a.on(\"contentDirChanged\",function(b){var b=(a.lang.dir!=b.data?\"add\":\"remove\")+\"Class\",c=a.ui.space(a.config.toolbarLocation);if(c)c[b](\"cke_m",
+			"e,f){a.addCommand(d,new CKEDITOR.command(a,e));a.ui.addButton&&a.ui.addButton(b,{label:c,command:d,toolbar:\"bidi,\"+f})}if(!a.blockless){var d=a.lang.bidi;f(\"BidiLtr\",d.ltr,\"bidiltr\",m(\"ltr\"),10);f(\"BidiRtl\",d.rtl,\"bidirtl\",m(\"rtl\"),20);a.on(\"contentDom\",function(){a.document.on(\"dirChanged\",function(b){a.fire(\"dirChanged\",{node:b.data,dir:b.data.getDirection(1)})})});a.on(\"contentDirChanged\",function(b){var b=(a.lang.dir!=b.data?\"add\":\"remove\")+\"Class\",c=a.ui.space(a.config.toolbarLocation);if(c)c[b](\"cke_mixed_dir_content\")})}}});",
+			"ltr",
+			"configuration",
+			"config",
+			"editorFull",
+			"editorCurrent",
+			"instanceReady",
+			"toolbar",
+			"editor",
+			"={",
+			"toolbar",
+			"ckeditor",
+			"toolbar",
+			"toolsb",
+			"too",
+			"cookis",
+			"$id = explode('-',$_COOKIE['ElementSelect']);  \n		// abri una nueva conexion\n	    $conexion = new conexion();\n	    $tabla = \"estructuras\";\n	    $camposAselect = \"codigoEstructura\";\n	    $where = \"id = \". $id[1];\n	    $Myconsulta = $conexion->getSelect($tabla,$camposAselect,$where);\n	    $var = mysql_fetch_array($Myconsulta);\n	    echo $var['codigoEstructura'];",
+			"estructura",
+			"argument",
+			"Preguntas",
+			"administradores",
+			"addPreguntaElemento",
+			"funAddPreguntas",
+			"funAddPregunta",
+			"funAddAPregunta",
+			"dellAdministradorElemento",
+			"Administrador",
+			"nadministradores",
+			"Administrador",
+			"funAddAdministrador",
+			"Administrador",
+			"nadministradores",
+			"administrador",
+			"Administrador",
+			"o",
+			"preguntas",
+			"Preguntas",
+			"preguntas",
+			"Preguntas",
+			"preguntas",
+			"Preguntas",
+			"administrador",
+			"Administrador",
+			"administrador",
+			"administradores",
+			"codigoI",
+			"funAddAdministrador",
+			"funAddAAdministrador",
+			"Docente",
+			"docentes",
+			"Docente",
+			"docente",
+			"Docente",
+			"docentes",
+			"Docentes",
+			"docentes",
+			"Docentes",
+			"docentes",
+			"Docentes",
+			"docentes",
+			"Docentes",
+			"docente",
+			"Docente",
+			"docente",
+			"toUpperCase",
+			";\n",
+			"docentes",
+			"asignaturas",
+			"Ano",
+			"label",
+			"grupo",
+			"Grupo",
+			"\"<label> ",
+			"<label>",
+			"input[type=\"n",
+			"input",
+			".ui.n",
+			"input.ui.",
+			"input.ui.n",
+			"input.ui",
+			"input",
+			"text",
+			"ano",
+			"codigos",
+			"funAddDocenteClase",
+			"addDocenteAsignaturaElemento",
+			"arreglo_Docentes",
+			"docente",
+			"formAddDocente",
+			"Docente",
+			"docente",
+			"Docente",
+			"docente",
+			"materia",
+			"completar",
+			"autocompletar",
+			"completar",
+			"nombres",
+			"completar",
+			"tipo"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/haykerhs/Desktop/HTML5 prueba/stylus.styl",
+					"settings":
+					{
+						"buffer_size": 1808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								266
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Base de Datos MySQL		Usuario MySQL	Host MySQL",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/haykerhs/Desktop/HTML5 prueba/stylus.css",
+					"settings":
+					{
+						"buffer_size": 1569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 1813.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/haykerhs/Webs/Sublime/Evaluacion_Docente/evaluacion.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true
+}
